@@ -3,7 +3,7 @@
 This is a survey on existing Kubernetes multi-cluster management projects which might be relevant for edge scenarios.
 
 
-Criteria | [KubeEdge](#kubeedge) | [Karmada](#karmada) | [Virtual Kubelet](#virtual-kubeket) | [Liqo](#liqo) | [Fleet](#fleet) | [ArgoCD](#argocd) | [OCM](#ocm) | [KCP](#KCP)
+Criteria | [KubeEdge](#kubeedge) | [Karmada](#karmada) | [Virtual Kubelet](#virtual-kubelet) | [Liqo](#liqo) | [Fleet](#fleet) | [ArgoCD](#argocd) | [OCM](#ocm) | [KCP](#KCP)
 | --- | --- | --- | --- | --- | --- | ---  | --- | --- |
 Scalability | [Findings](./published-scalability.md#kubeedge) | No data | Depends on provider | No data | [Findings](./published-scalability.md#fleet) | No data | [Findings](./published-scalability.md#ocm) | No data
 Deployment Model | Pull | Push (pull planned) | Depends on provider | Push (pull planned) | Pull | Push | Pull | Push & Pull
